@@ -6,4 +6,4 @@
 Условия:  
 Прокрутки должны работать одновременно- при вертикальном свайпе срабатывает один ScrollRect, при горизонтальном другой.
 
-https://drive.google.com/drive/folders/1gQ2PKEj7My-c7GUAOPUI4j_lmKb-U3DF?usp=sharing
+https://drive.google.com/drive/folders/1AXaunJ7bt82iBYYCkX-Wkv6M5_4Cescj?usp=sharing
